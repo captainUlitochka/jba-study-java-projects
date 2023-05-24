@@ -1,0 +1,4 @@
+package machine;
+enum MachineState {
+    CHOOSING_ACTION, CHOOSING_COFFEE_TYPE, FILL_WATER, FILL_MILK, FILL_BEANS, FILL_CUPS, EXIT
+}
